@@ -20,10 +20,10 @@ Notlar, görevler, odak, gerçek ortam sesleri, trading, elektronik ve yazılım
 
 | | |
 |---|---|
-| **Sürüm / Version** | 1.6.14 (2026-11-05) |
+| **Sürüm / Version** | 1.6.15 (2026-11-05) |
 | **Sistem / System** | Windows 10 / 11, 64-bit |
 | **Dosya / File** | [`Cove-Setup.exe`](https://github.com/rumetsasmaz/cove-releases/releases/latest/download/Cove-Setup.exe) |
-| **SHA-256** | `b1ad82dba9d03d1d84db04cad0f30add95a30a13676a9707bc7af0542b27b191` |
+| **SHA-256** | `4d2be01d0e264249587939207a966469aa9fe615615b9af2d67d9b12a6e0e1b7` |
 
 Windows "Bilgisayarınız korundu" derse **Ek bilgi → Yine de çalıştır**. Uygulama henüz ücretli bir kod imzalama sertifikasıyla imzalanmadığı için bu uyarı çıkar. Kurulduktan sonra güncellemeler kendiliğinden gelir.
 
