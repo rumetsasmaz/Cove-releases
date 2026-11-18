@@ -20,10 +20,10 @@ Günün, odağın, piyasalar ve tezgâhın — notlar, görevler, odak, trading,
 
 | | |
 |---|---|
-| **Sürüm / Version** | 4.0.28 (2026-11-18) |
+| **Sürüm / Version** | 4.0.29 (2026-11-18) |
 | **Sistem / System** | Windows 10 / 11, 64-bit |
 | **Dosya / File** | [`Cove-Setup.exe`](https://github.com/rumetsasmaz/cove-releases/releases/latest/download/Cove-Setup.exe) |
-| **SHA-256** | `3deae189d88ebf2f9a5eacdaeb6ae13fcbc577699701ecc84ea3e616f5e18178` |
+| **SHA-256** | `5c413094e708f30591f27287a634ce5078247dfdee5ab3705fb7a96160127f58` |
 
 Windows "Bilgisayarınız korundu" derse **Ek bilgi → Yine de çalıştır**. Uygulama henüz ücretli bir kod imzalama sertifikasıyla imzalanmadığı için bu uyarı çıkar. Kurulduktan sonra güncellemeler kendiliğinden gelir.
 
