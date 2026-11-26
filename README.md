@@ -4,8 +4,8 @@
 <p align="center"><b>designed by Rumet</b></p>
 
 <p align="center">
-Günün, odağın, piyasalar ve tezgâhın — notlar, görevler, odak, trading, elektronik ve geliştirici araçları tek uygulamada, sadece senin bilgisayarında.<br>
-<i>Your day, your focus, the markets and your bench — notes, tasks, focus, trading, electronics and developer tools in one app, only on your computer.</i>
+Notlar, görevler, odak, gerçek ortam sesleri, trading, elektronik ve yazılım araçları — tek uygulamada, sadece senin bilgisayarında.<br>
+<i>Notes, tasks, focus, real ambient sounds, trading, electronics and developer tools — one app, only on your computer.</i>
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@ Günün, odağın, piyasalar ve tezgâhın — notlar, görevler, odak, trading,
 
 | | |
 |---|---|
-| **Sürüm / Version** | 4.0.30 (2026-11-18) |
+| **Sürüm / Version** | 4.0.31 (2026-11-26) |
 | **Sistem / System** | Windows 10 / 11, 64-bit |
 | **Dosya / File** | [`Cove-Setup.exe`](https://github.com/rumetsasmaz/cove-releases/releases/latest/download/Cove-Setup.exe) |
-| **SHA-256** | `bfeed9b4019f5856844a7ffbddc7b426f4bf91fa2d710f76f73436c44cd27dc4` |
+| **SHA-256** | `477ac47eb18e712eaa24b5f1acf233cf911cf2eec9918a792d631e4acbad467e` |
 
 Windows "Bilgisayarınız korundu" derse **Ek bilgi → Yine de çalıştır**. Uygulama henüz ücretli bir kod imzalama sertifikasıyla imzalanmadığı için bu uyarı çıkar. Kurulduktan sonra güncellemeler kendiliğinden gelir.
 
